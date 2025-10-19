@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "name": "Story Timeline Viewer",
+  "name": "Story Timeline Viewer v2",
   "version": "2.0.0",
   "description": "Sort and tag messages in SillyTavern by in-story chronology.",
   "author": "MossMilkRat",
