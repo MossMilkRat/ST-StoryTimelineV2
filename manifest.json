@@ -1,11 +1,11 @@
 {
   "manifest_version": 1,
   "name": "Story Timeline Viewer",
-  "version": "0.9.3",
-  "description": "View, organize, and tag story events in chronological order by story time instead of message order.",
+  "version": "2.0.0",
+  "description": "Sort and tag messages in SillyTavern by in-story chronology.",
   "author": "MossMilkRat",
   "entrypoint": "index.js",
-  "style": "styles.css",
-  "optional_features": ["events", "saveMetadata", "saveSettings"],
+  "style": "style.css",
+  "minimum_st_version": "1.13.0",
   "extension_type": "utility"
 }
