@@ -6,8 +6,6 @@
   "author": "MossMilkRat",
   "entrypoint": "index.js",
   "style": "styles.css",
-  "requires": ["chat", "extensionsMenu", "slashCommands"],
   "optional_features": ["events", "saveMetadata", "saveSettings"],
-  "minimum_st_version": "1.10.0",
   "extension_type": "utility"
 }
