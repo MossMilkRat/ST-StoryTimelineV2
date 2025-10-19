@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "Story Timeline Viewer",
+  "version": "0.9.3",
+  "description": "View, organize, and tag story events in chronological order by story time instead of message order.",
+  "author": "MossMilkRat",
+  "entrypoint": "index.js",
+  "style": "styles.css",
+  "requires": ["chat", "extensionsMenu", "slashCommands"],
+  "optional_features": ["events", "saveMetadata", "saveSettings"],
+  "minimum_st_version": "1.10.0",
+  "extension_type": "utility"
+}
